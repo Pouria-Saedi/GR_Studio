@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#f5f2ec"><meta name="description" content="Thoughtful wooden objects for play, sound, and everyday living from GR Studio.">
+  <meta property="og:title" content="GR Studio — Small objects, thoughtful forms"><meta property="og:description" content="A considered collection of small forms for play, sound, and living.">
+  <title>GR Studio — Small objects, thoughtful forms</title><link rel="icon" href="/source/logo.png" type="image/png"><link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <div class="announcement">Worldwide shipping <span>·</span> Free shipping on orders over $50</div>
+  <header class="site-header"><button class="menu-toggle icon-button" aria-label="Open navigation" id="menu-toggle"><span></span><span></span></button><nav class="main-nav" id="main-nav"><a href="/collections">Collections</a><a href="/sale">Sale</a><a href="/about">About</a></nav><a class="wordmark" href="/" aria-label="GR Studio home"><img class="brand-logo" src="/source/logo.png" alt="GR Studio"><span class="brand-label">STUDIO</span></a><div class="header-actions"><button class="text-button" id="search-toggle" aria-expanded="false">Search</button><a class="text-button account-link" href="/account" aria-label="Account, guest"><span class="account-link-label">Account</span><span class="account-status" id="account-status"><i aria-hidden="true"></i><span id="account-status-label">Guest</span></span></a><button type="button" class="bag-link" id="bag-trigger" aria-haspopup="dialog" aria-controls="bag-drawer" aria-expanded="false">Bag <span class="bag-count" id="bag-count">0</span></button></div></header>
+  <div class="search-panel" id="search-panel"><input id="search-input" type="search" placeholder="Find a small something…" aria-label="Search products"><button id="search-close" aria-label="Close search">×</button></div>
+  <main id="app" tabindex="-1"><div class="loading">A moment, please.</div></main>
+  <dialog class="bag-drawer" id="bag-drawer" aria-labelledby="bag-drawer-title" aria-describedby="bag-drawer-description">
+    <div class="bag-drawer-shell">
+      <header class="bag-drawer-header"><div><span class="eyebrow">YOUR SELECTION</span><h2 id="bag-drawer-title">Your bag <span id="bag-drawer-count">(0)</span></h2></div><button type="button" class="bag-drawer-close" id="bag-drawer-close" data-bag-close aria-label="Close bag">&times;</button></header>
+      <p id="bag-drawer-description" class="sr-only">Review your items, adjust quantities, or continue to checkout.</p>
+      <div class="bag-drawer-content" id="bag-drawer-content"></div>
+      <p class="bag-drawer-status sr-only" id="bag-drawer-status" role="status" aria-live="polite"></p>
+      <footer class="bag-drawer-footer" id="bag-drawer-footer"></footer>
+    </div>
+  </dialog>
+  <footer class="site-footer"><div class="footer-top"><div class="footer-brand"><a class="wordmark footer-wordmark" href="/"><img class="brand-logo" src="/source/logo.png" alt="GR Studio"><span class="brand-label">STUDIO</span></a><p>Objects for play, thought<br>and the spaces between.</p></div><div class="footer-column"><h3>Explore</h3><a href="/collections">All objects</a><a href="/sale">Sale</a><a href="/about">Our approach</a></div><div class="footer-column"><h3>Customer care</h3><a href="/contact">Contact</a><a href="/faq">FAQ</a><a href="/shipping">Shipping</a><a href="/returns">Returns</a></div><div class="footer-column"><h3>Information</h3><a href="/privacy">Privacy</a><a href="/cookies">Cookie preferences</a><a href="/terms">Terms</a><a href="/legal">Legal notice</a></div><div class="footer-news"><h3>A note now & then</h3><p>New forms, little discoveries, and studio notes.</p><form id="newsletter-form"><label class="sr-only" for="newsletter-email">Email address</label><input type="email" id="newsletter-email" required placeholder="Your email address"><button aria-label="Subscribe"><svg class="link-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M10 13a5 5 0 0 0 7.07 0l3-3a5 5 0 0 0-7.07-7.07l-1.71 1.71M14 11a5 5 0 0 0-7.07 0l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"/></svg></button></form><p class="newsletter-message" id="newsletter-message"></p></div></div><div class="footer-payments"><span>Online payments are being prepared. No card details are collected on this site.</span><div class="payment-list" aria-label="Payment options"></div></div><div class="footer-bottom"><span>© <span id="year"></span> GR Studio · Made for curious days.</span><button class="cookie-settings" id="cookie-settings">Cookie settings</button></div><p class="demo-note">Thoughtful wooden objects for play, sound, and everyday living. Made for curious hands, long afternoons, and shelves with a story.</p></footer>
+  <div class="cookie-banner" id="cookie-banner" hidden><div><strong>A small note about cookies</strong><p>Essential storage keeps your bag and preferences. Optional analytics are turned off.</p></div><div class="cookie-actions"><button class="button button-outline" id="cookie-customize">Choose</button><button class="button button-outline" id="cookie-reject">Reject optional</button><button class="button button-dark" id="cookie-accept">Accept all</button></div></div>
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+  <script src="/app.js" defer></script>
+</body></html>

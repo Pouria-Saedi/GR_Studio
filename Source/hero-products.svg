@@ -1,0 +1,58 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 620" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">GR Studio wooden products</title>
+  <desc id="desc">A straight-on illustration of a wooden miniature violin and a wooden bowling set.</desc>
+  <ellipse cx="401" cy="515" rx="300" ry="22" fill="#9a7a5c" opacity=".08"/>
+  <circle cx="400" cy="310" r="255" fill="#efe5d6" opacity=".24"/>
+
+  <!-- Miniature violin, drawn from the front -->
+  <g stroke="#684a36" stroke-linecap="round" stroke-linejoin="round">
+    <!-- scroll and neck -->
+    <path d="M222 145c-17-8-21-22-14-34 8-13 29-14 40-5 7 6 9 15 6 23l-7 19 13 7v104h-45V160l7-15Z" fill="#885b3e" stroke-width="3"/>
+    <path d="M229 124c-2-8 5-14 12-10 6 4 4 12-2 15-5 2-10 0-10-5Z" fill="#d0a477" stroke-width="2"/>
+    <path d="M207 157h66v113h-66z" fill="#49372d" stroke-width="3"/>
+    <path d="M214 163h52v105h-52z" fill="#644533" stroke="none"/>
+    <path d="M219 162v267m12-267v269m12-269v268m12-267v263" stroke="#ecd8b6" stroke-width="1.5" opacity=".8"/>
+    <!-- body -->
+    <path d="M218 263c-12 10-17 27-12 44 4 14 12 20 9 33-4 17-20 23-24 45-7 37 19 68 58 72 39 4 68-22 67-58-1-24-15-33-18-51-2-12 7-23 9-38 3-21-8-39-25-49-18-11-47-12-64 2Z" fill="#b4784d" stroke-width="3.5"/>
+    <path d="M219 286c-8 12-7 25 1 34m53-34c8 12 7 25-1 34m-52 1c-10 15-11 29-4 42m57-42c10 15 11 29 4 42" stroke="#714b34" stroke-width="4"/>
+    <path d="M235 326h27l-4 63-10 17-10-17z" fill="#5b3d2d" stroke-width="2.5"/>
+    <path d="M214 316c15 7 54 7 68 0m-70 10c16 7 56 7 72 0" stroke="#e0b88d" stroke-width="1.5" opacity=".8"/>
+    <path d="M238 396h21l-2 19h-18z" fill="#6c4934" stroke-width="2"/>
+    <!-- tailpiece and fine strings -->
+    <path d="m241 414 17 0 7 29-15 11-15-11z" fill="#45352c" stroke-width="2"/>
+    <path d="M220 177v259m12-259v259m12-259v259m12-259v259" stroke="#f3e5ca" stroke-width="1" opacity=".7"/>
+    <!-- bridge -->
+    <path d="M228 370c8-5 31-5 40 0l-3 6c-9-4-25-4-34 0z" fill="#e4c69e" stroke-width="1.5"/>
+    <!-- chin rest and feet -->
+    <path d="M224 447c8 12 36 12 47 0l-3 16c-12 9-29 9-41 0z" fill="#4c392e" stroke-width="2"/>
+    <path d="m221 463-9 13m63-13 9 13" stroke-width="4"/>
+  </g>
+  <!-- bow, a simple straight upright product detail -->
+  <g stroke-linecap="round">
+    <path d="m326 151-26 307" stroke="#735039" stroke-width="7"/>
+    <path d="m331 151-26 307" stroke="#e5d3b8" stroke-width="2"/>
+    <path d="m324 151 8 1m-34 307 10 1" stroke="#684a36" stroke-width="5"/>
+  </g>
+
+  <!-- Wooden bowling set: nine turned pins, seen straight on -->
+  <g stroke="#765539" stroke-width="2.5" stroke-linejoin="round">
+    <!-- back row -->
+    <path d="M532 198c-8 8-8 20-4 31l-7 47c-2 16 5 27 18 29 14 2 23-8 21-24l-7-52c4-12 3-24-5-31-4-4-12-4-16 0Z" fill="#d2a46e"/>
+    <path d="M606 178c-8 8-8 21-4 33l-8 59c-2 16 6 27 19 28 14 1 23-10 20-26l-8-61c4-13 3-25-5-33-4-4-10-4-14 0Z" fill="#bd8959"/>
+    <path d="M680 198c-8 8-8 20-4 31l-7 47c-2 16 5 27 18 29 14 2 23-8 21-24l-7-52c4-12 3-24-5-31-4-4-12-4-16 0Z" fill="#d9b17d"/>
+    <!-- middle row -->
+    <path d="M496 266c-8 8-8 20-4 31l-7 47c-2 16 5 27 18 29 14 2 23-8 21-24l-7-52c4-12 3-24-5-31-4-4-12-4-16 0Z" fill="#bd8959"/>
+    <path d="M568 255c-8 8-8 20-4 31l-7 48c-2 15 5 26 18 28 14 2 23-8 21-24l-7-52c4-12 3-23-5-31-4-4-12-4-16 0Z" fill="#d9b17d"/>
+    <path d="M642 255c-8 8-8 20-4 31l-7 48c-2 15 5 26 18 28 14 2 23-8 21-24l-7-52c4-12 3-23-5-31-4-4-12-4-16 0Z" fill="#c59462"/>
+    <path d="M714 266c-8 8-8 20-4 31l-7 47c-2 16 5 27 18 29 14 2 23-8 21-24l-7-52c4-12 3-24-5-31-4-4-12-4-16 0Z" fill="#d2a46e"/>
+    <!-- front row -->
+    <path d="M533 331c-8 8-8 20-4 31l-7 47c-2 16 5 27 18 29 14 2 23-8 21-24l-7-52c4-12 3-24-5-31-4-4-12-4-16 0Z" fill="#c59462"/>
+    <path d="M642 331c-8 8-8 20-4 31l-7 47c-2 16 5 27 18 29 14 2 23-8 21-24l-7-52c4-12 3-24-5-31-4-4-12-4-16 0Z" fill="#d9b17d"/>
+    <!-- turned pin neck rings -->
+    <path d="M525 223c9 5 19 5 29 0m45-21c9 5 19 5 29 0m45 21c9 5 19 5 29 0M489 291c9 5 19 5 29 0m44-10c9 5 19 5 29 0m45 0c9 5 19 5 29 0m44 10c9 5 19 5 29 0M526 356c9 5 19 5 29 0m80 0c9 5 19 5 29 0" fill="none" stroke="#f0d5ae" stroke-width="3"/>
+  </g>
+  <!-- wooden bowling ball in front -->
+  <circle cx="645" cy="465" r="38" fill="#9f6e48" stroke="#684a36" stroke-width="3"/>
+  <path d="M629 452c4-5 10-5 14 0 3 4 1 9-3 11-5 3-12 0-12-5m22-4c4-4 10-3 12 1 2 4 0 8-4 10" stroke="#d0a17a" stroke-width="3" stroke-linecap="round"/>
+  <path d="M150 514h501" stroke="#bda78e" stroke-width="1" opacity=".4"/>
+</svg>

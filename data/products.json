@@ -1,0 +1,255 @@
+[
+    {
+        "id":  "orbit",
+        "name":  "Wooden play set",
+        "category":  "Toys",
+        "collection":  "Play forms",
+        "price":  68,
+        "stock":  7,
+        "status":  "published",
+        "featured":  true,
+        "description":  "A wooden play set made for open-ended games. Arrange the shapes, take aim, and invent a new challenge each time.",
+        "dimensions":  "A compact multi-piece set",
+        "materials":  "Wood and fabric bag",
+        "color":  "#c7955f",
+        "shape":  "blocks",
+        "sku":  "GR-TOY-001",
+        "image":  "/source/products/wooden-play-set-01.png",
+        "images":  [
+                       "/source/products/wooden-play-set-01.png",
+                       "/source/products/wooden-play-set-02.png",
+                       "/source/products/wooden-play-set-03.png",
+                       "/source/products/wooden-play-set-04.png",
+                       "/source/products/wooden-play-set-05.png"
+                   ],
+        "salePrice":  58
+    },
+    {
+        "id":  "little-echo",
+        "name":  "Miniature violin",
+        "category":  "Instruments",
+        "collection":  "Small instruments",
+        "price":  54,
+        "stock":  3,
+        "status":  "published",
+        "featured":  true,
+        "description":  "A miniature violin with a bow and stand, bringing a little musical character to a shelf, desk, or collection.",
+        "dimensions":  "Miniature scale",
+        "materials":  "Wood and metal details",
+        "color":  "#d8b783",
+        "shape":  "echo",
+        "sku":  "GR-INS-001",
+        "image":  "/source/products/miniature-violin-01.png",
+        "images":  [
+                       "/source/products/miniature-violin-01.png"
+                   ],
+        "salePrice":  46
+    },
+    {
+        "id":  "arc-blocks",
+        "name":  "Wooden bowling set",
+        "category":  "Toys",
+        "collection":  "Play forms",
+        "price":  82,
+        "stock":  6,
+        "status":  "published",
+        "featured":  true,
+        "description":  "A classic tabletop bowling set with turned wooden pins and a matching ball. Set up a lane and play a quick game at home.",
+        "dimensions":  "Tabletop set",
+        "materials":  "Wood and fabric bag",
+        "color":  "#bd8055",
+        "shape":  "blocks",
+        "sku":  "GR-TOY-002",
+        "image":  "/source/products/wooden-bowling-set-01.png",
+        "images":  [
+                       "/source/products/wooden-bowling-set-01.png",
+                       "/source/products/wooden-bowling-set-02.png",
+                       "/source/products/wooden-bowling-set-03.png",
+                       "/source/products/wooden-bowling-set-04.png"
+                   ]
+    },
+    {
+        "id":  "tide-spinner",
+        "name":  "Wooden play objects",
+        "category":  "Toys",
+        "collection":  "Play forms",
+        "price":  42,
+        "stock":  0,
+        "status":  "published",
+        "featured":  false,
+        "description":  "A small collection of wooden forms for curious hands. Turn, balance, and make up a new way to play.",
+        "dimensions":  "Compact multi-piece set",
+        "materials":  "Wood and cord",
+        "color":  "#d1a577",
+        "shape":  "spinner",
+        "sku":  "GR-TOY-003",
+        "image":  "/source/products/wooden-play-objects-01.png",
+        "images":  [
+                       "/source/products/wooden-play-objects-01.png",
+                       "/source/products/wooden-play-objects-02.png"
+                   ]
+    },
+    {
+        "id":  "seed-rattle",
+        "name":  "Wooden biplane",
+        "category":  "Toys",
+        "collection":  "Miniatures",
+        "price":  36,
+        "stock":  9,
+        "status":  "published",
+        "featured":  false,
+        "description":  "A wooden biplane with a clean, nostalgic silhouette. A small display piece for a shelf or desk.",
+        "dimensions":  "Miniature display scale",
+        "materials":  "Wood",
+        "color":  "#daa971",
+        "shape":  "orbit",
+        "sku":  "GR-TOY-004",
+        "image":  "/source/products/wooden-biplane-01.png",
+        "images":  [
+                       "/source/products/wooden-biplane-01.png",
+                       "/source/products/wooden-biplane-02.png",
+                       "/source/products/wooden-biplane-03.png"
+                   ]
+    },
+    {
+        "id":  "column-vase",
+        "name":  "Mini chess set",
+        "category":  "Objects",
+        "collection":  "Miniatures",
+        "price":  74,
+        "stock":  3,
+        "status":  "published",
+        "featured":  false,
+        "description":  "A compact wooden chess set for a thoughtful game at home or a quiet moment away from the board.",
+        "dimensions":  "Compact chess set",
+        "materials":  "Wood",
+        "color":  "#bf906b",
+        "shape":  "column",
+        "sku":  "GR-OBJ-001",
+        "image":  "/source/products/mini-chess-set-01.jpg",
+        "images":  [
+                       "/source/products/mini-chess-set-01.jpg"
+                   ]
+    },
+    {
+        "id":  "mini-sewing-machine",
+        "name":  "Miniature sewing machine",
+        "category":  "Objects",
+        "collection":  "Miniatures",
+        "price":  48,
+        "stock":  5,
+        "status":  "published",
+        "featured":  false,
+        "description":  "A miniature sewing machine with a distinctive, familiar shape. A charming display piece for a sewing room or studio.",
+        "dimensions":  "Miniature display scale",
+        "materials":  "Wood and metal details",
+        "color":  "#c7955f",
+        "shape":  "column",
+        "sku":  "GR-OBJ-002",
+        "image":  "/source/products/miniature-sewing-machine-01.jpg",
+        "images":  [
+                       "/source/products/miniature-sewing-machine-01.jpg"
+                   ]
+    },
+    {
+        "id":  "wooden-camper",
+        "name":  "Wooden camper van",
+        "category":  "Toys",
+        "collection":  "Miniatures",
+        "price":  48,
+        "stock":  5,
+        "status":  "published",
+        "featured":  false,
+        "description":  "A wooden camper van with a simple, nostalgic silhouette. Made to bring a little sense of escape to a shelf or desk.",
+        "dimensions":  "Miniature display scale",
+        "materials":  "Wood",
+        "color":  "#c7955f",
+        "shape":  "orbit",
+        "sku":  "GR-TOY-005",
+        "image":  "/source/products/wooden-camper-van-01.jpg",
+        "images":  [
+                       "/source/products/wooden-camper-van-01.jpg"
+                   ]
+    },
+    {
+        "id":  "robot-keychain",
+        "name":  "Robot keychain",
+        "category":  "Accessories",
+        "collection":  "Small things",
+        "price":  48,
+        "stock":  5,
+        "status":  "published",
+        "featured":  false,
+        "description":  "A friendly wooden robot charm for your keys or bag, bringing a small detail of character wherever you go.",
+        "dimensions":  "Keyring size",
+        "materials":  "Wood and metal keyring",
+        "color":  "#c7955f",
+        "shape":  "orbit",
+        "sku":  "GR-ACC-001",
+        "image":  "/source/products/robot-keychain-01.jpg",
+        "images":  [
+                       "/source/products/robot-keychain-01.jpg"
+                   ],
+        "salePrice":  null
+    },
+    {
+        "id":  "wooden-bangles",
+        "name":  "Wooden bangles",
+        "category":  "Wearables",
+        "collection":  "Wearables",
+        "price":  48,
+        "stock":  5,
+        "status":  "published",
+        "featured":  false,
+        "description":  "Warm wooden bangles with a simple, natural look. Wear one on its own or layer them with your everyday pieces.",
+        "dimensions":  "Wearable size",
+        "materials":  "Wood",
+        "color":  "#c7955f",
+        "shape":  "orbit",
+        "sku":  "GR-WEA-001",
+        "image":  "/source/products/wooden-bangles-01.jpg",
+        "images":  [
+                       "/source/products/wooden-bangles-01.jpg"
+                   ]
+    },
+    {
+        "id":  "pendant-necklace",
+        "name":  "Wood pendant necklace",
+        "category":  "Wearables",
+        "collection":  "Wearables",
+        "price":  48,
+        "stock":  5,
+        "status":  "published",
+        "featured":  false,
+        "description":  "A simple wooden pendant on a cord, adding a natural touch to an everyday outfit.",
+        "dimensions":  "Pendant necklace",
+        "materials":  "Wood and cord",
+        "color":  "#c7955f",
+        "shape":  "orbit",
+        "sku":  "GR-WEA-002",
+        "image":  "/source/products/wood-pendant-necklace-01.jpg",
+        "images":  [
+                       "/source/products/wood-pendant-necklace-01.jpg"
+                   ]
+    },
+    {
+        "id":  "wood-necklace",
+        "name":  "Wood necklace",
+        "category":  "Wearables",
+        "collection":  "Wearables",
+        "price":  48,
+        "stock":  5,
+        "status":  "published",
+        "featured":  false,
+        "description":  "A wooden necklace with smooth, natural forms and an understated finish for everyday wear.",
+        "dimensions":  "Necklace",
+        "materials":  "Wood and cord",
+        "color":  "#c7955f",
+        "shape":  "orbit",
+        "sku":  "GR-WEA-003",
+        "image":  "/source/products/wood-necklace-01.jpg",
+        "images":  [
+                       "/source/products/wood-necklace-01.jpg"
+                   ]
+    }
+]

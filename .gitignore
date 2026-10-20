@@ -1,0 +1,30 @@
+node_modules/
+
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+
+# Runtime data may contain customer and order information
+data/*.sqlite
+data/*.sqlite-*
+data/orders.json
+data/*.log
+
+# Downloaded archive duplicates the checked-in Source/ assets
+Source.zip
+
+# Local editor and operating system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Debug logs
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# Unused source archive imports (kept locally, not served by the site)
+Source/NidoEvo/
+Source/toy4/
